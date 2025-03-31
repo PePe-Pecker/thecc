@@ -2,7 +2,7 @@
   "name": "The Crypto Company",
   "symbol": "THECC",
   "description": "The Crypto Company: forget charts, just get your $THECC share.",
-  "image": "https://raw.githubusercontent.com/PePe-Pecker/thecc/c3962ab297091d9a9c10c74b8fc050ac83afb25d/img.jpg",
+  "image": "https://blue-left-crawdad-405.mypinata.cloud/ipfs/bafkreigo3g4c2pm5budxu2qwcruaoffcbupntqda3r272jnxdtvwevrxdm",
   "extensions": {
     "website": "https://linktr.ee/thecconsol",
     "twitter": "https://x.com/thecconsol",
